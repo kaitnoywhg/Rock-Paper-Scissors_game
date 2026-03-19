@@ -35,9 +35,9 @@ game.exe
 ## Code Explanation
 
 **Connected libraries:**
-   *<stdio.h> - for input/output operations 
-   *<stdlib.h> - for rand() and srand() functions
-   *<time.h> - for time() function to generate random seed
+    * <stdio.h> - for input/output operations 
+    * <stdlib.h> - for rand() and srand() functions
+    * <time.h> - for time() function to generate random seed
 
 **Game Logic:**
    *Random number generation for computer's move using rand() % 3 + 1
