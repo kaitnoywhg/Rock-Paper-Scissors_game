@@ -34,21 +34,21 @@ game.exe
 
 ## Code Explanation
 
-**Connected libraries:**
-    * <stdio.h> - for input/output operations 
-    * <stdlib.h> - for rand() and srand() functions
-    * <time.h> - for time() function to generate random seed
+###Connected libraries:
+    * `<stdio.h>` - for input/output operations 
+    * `<stdlib.h>` - for rand() and srand() functions
+    * `<time.h>` - for time() function to generate random seed
 
-**Game Logic:**
-   *Random number generation for computer's move using rand() % 3 + 1
-    *Input validation (numbers 1-3 only)
-    *Win/loss conditions using logical operators
-    *Score tracking with integer variables
+###Game Logic:
+    * Random number generation for computer's move using rand() % 3 + 1
+    * Input validation (numbers 1-3 only)
+    * Win/loss conditions using logical operators
+    * Score tracking with integer variables
 
-**Input Validation:**
-    *Number must be between 1 and 3
-    *Invalid input doesn't waste an attempt
-    *Draws don't consume attempts
+###Input Validation:
+    * Number must be between 1 and 3
+    * Invalid input doesn't waste an attempt
+    * Draws don't consume attempts
 
 ## Author
 
