@@ -59,4 +59,4 @@ kaitnoywhg
 
 ## License
 
-This project is licensed under the GPL
+This project is licensed under the MIT
